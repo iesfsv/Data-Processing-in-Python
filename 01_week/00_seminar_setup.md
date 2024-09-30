@@ -12,12 +12,39 @@ September 30, 2024
 
 ## Installations
 
+Check you have installed **python** and **git + git bash** and **VScode**
 - [Python](https://www.python.org/downloads/)
-  - or via [(ana)conda](https://docs.anaconda.com/anaconda/install/index.html)
-- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+  - or via [(ana)conda](https://docs.anaconda.com/anaconda/install/index.html) - **preferably** for Win users
+    - Anaconda asks you if you want to install python with it (register with it) ⟹ check yes.
+- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), [[dowload page](https://git-scm.com/downloads)]
 - [GitHub](https://github.com/)
   - register with your school e-mail, you should be eligible for [GitHub Student Developer Pack](https://education.github.com/pack)
 - [VScode](https://code.visualstudio.com/download)
+
+------
+
+### Let us repeat the installation instruction from the e-mail
+
+**Git**
+Install Git on your machines and register for GitHub (https://github.com/join), ideally using the school e-mail since you can apply for the GitHub Student Developer Pack. (https://education.github.com/pack).
+Go through the GitHub handbook, 10-minutes only. (https://guides.github.com/introduction/git-handbook/)
+
+**Jupyter & (Ana)conda:**
+Based on your OS (here *Windows* links), download (Ana)conda from here:
+https://www.anaconda.com/distribution/#windows
+and install it following these instructions:
+https://docs.anaconda.com/anaconda/install/windows/
+Jupyter should be installed automatically. If you encounter problems, that basic google-search cannot solve, we are happy to help you when you write us an email.
+On *macOS* you can use brew installer or anaconda as well.
+
+**VScode**
+Finally, also install Visual Studio Code (VScode): https://code.visualstudio.com/
+
+*Thank you!*
+
+------
+
+*Seminar 0 continues here:*
 
 ## IDEs
 
@@ -83,12 +110,14 @@ September 30, 2024
 
 ### Git
 
+*Git was created for use in the development of the Linux kernel by Linus Torvalds and others developing the kernel. (wiki)*
+
 - version control system
-- short course at IES
+- short course at IES, [martinhronec.github.io/JEM224](http://martinhronec.github.io/JEM224)
 
 ### Github
 
 - place with repositories where you can collaborate on your projects
 - repositories with packages
-- repositories for websites
+- repositories for websites (github.io)
 - alternatives: gitlab, bitbucket
