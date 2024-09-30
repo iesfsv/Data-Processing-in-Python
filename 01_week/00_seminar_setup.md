@@ -23,7 +23,7 @@ Check you have installed **python** and **git + git bash** and **VScode**
 
 ------
 
-### Let us repeat the installation instruction from the e-mail
+### Let us repeat the installation instructions from the e-mail
 
 **Git**
 Install Git on your machines and register for GitHub (https://github.com/join), ideally using the school e-mail since you can apply for the GitHub Student Developer Pack. (https://education.github.com/pack).
