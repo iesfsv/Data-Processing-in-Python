@@ -46,7 +46,7 @@ Please reserve your date and time of the consultation [Link TBA] - the first two
 | 10 | 3/12 | L | Data science | Luboš | |
 | 11 | 9/12 | S | Seminar 5: Data science case-study | Vilém | |
 | 11 | 10/12 | L | How to code (avoiding spaghetti code) | Luboš | Project proposal |
-| 12 | 18/12 | L | Guest Lecture @ TBA | TBA | |
+| 12 | 17/12 | L | Guest Lecture @ TBA | TBA | |
 | 13 | 6/1-8/1 | - | WiP: Project consultations | Luboš & Vilém | |
 | 14 | 13/1-15/1 | - | WiP: Project consultations | Luboš & Vilém | |
 
