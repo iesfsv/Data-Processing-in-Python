@@ -31,8 +31,8 @@ Please reserve your date and time of the consultation [Link TBA] - the first two
 | 1 | 30/9 | S | Seminar 0: Setup (Jupyter, VScode, Git, OS basics) | Luboš | |
 | 1 | 1/10 | L | Python basics | Luboš | |
 | 2 | 8/10 | L | Python basics II | Luboš | |
-| 3 | 14/10 | S | Seminar 1: Basics | Luboš | HW 1 |
-| 3 | 15/10 | L | Numpy | Luboš | |
+| 3 | 14/10 | S | Seminar 1: Basics | Luboš | |
+| 3 | 15/10 | L | Numpy | Luboš | HW 1 |
 | 4 | 22/10 | L | Pandas I | Luboš | |
 | 5 | 29/10 | L | Pandas II + Matplotlib  | Luboš | HW 2 |
 | 6 | 4/11 | S | Seminar 2: Numpy & pandas | Luboš | |
@@ -90,11 +90,12 @@ At least 50% from the homeworks assignments and work-in-progress presentation is
 
 ## Homework Assignments (5%)
 
-* Create leetcode.com account
+* Create [leetcode.com](https://leetcode.com) account
 * You are expected to submit in a specified [Google form](https://forms.gle/QbjFFcmJwgabbSyA7):
-  * link to the problem
+  * Link to the problem
   * Print page showing your solution and submission statistics
     * Like this: [Path Sum III - Submission Detail - LeetCode.pdf](/99_files/PathSumIII-SubmissionDetail-LeetCode.pdf)
+    * **EDIT:** You can access the **statistics** of your **solution** (even it is not accepted by *leetcode*) via the top right button to your `profile`. You go to your `submissions`, then column `status` and you obtain the `solution details`. These details you save/print to `.PDF` and upload.
   * Plain text of your script (in python 3!)
 
 * Rules:
