@@ -8,7 +8,7 @@
 .vscode/
 
 # --- Lubos ---
-
+__pycache__/
 wspace/
 requirements.txt
 
