@@ -3,20 +3,20 @@
 The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Luboš Hanus](mailto:lubos.hanus@fsv.cuni.cz) and [Vilém Krejcar](mailto:vilem.krejcar@fsv.cuni.cz).
 
 <!-- ## Communication
-
 Please direct all questions to Vílem Krejcar preferably.
+-->
 
-## Final project
-
-### WiP consultations
-
-Please reserve your date and time of the consultation [Link TBA] - the first two weeks of Jan 2025.
+## Final project (quick info, more info below)
 
 ### Project - paring
 
-* If you are looking for a partner [use this google sheet (TBA)] with your CUNI account logged in. If you have a partner, delete your info, please, to make it easier for others.
+* If you are looking for a partner [use this google sheet](https://docs.google.com/spreadsheets/d/1QYylYxtln3RWoOszFfswOXG7KQw69cGdIozcO12K7E8/edit?usp=sharing) with your CUNI account logged in. If you have a partner, delete your info, please, to make it easier for others.
 
-* See full instructions below schedule  -->
+### WiP consultations
+
+Please reserve your date and time of the consultation [Link](https://docs.google.com/spreadsheets/d/1vv13AmQ1eQNxM5v2V0e5vEUc2ibgbjH9wdj-_gyamYc/edit?usp=sharing) - the first two weeks of Jan 2025.
+
+* See full instructions below schedule.
 
 ## FAQ - pre semester
 
@@ -58,9 +58,9 @@ At least 50% from the homeworks assignments and work-in-progress presentation is
 ### Final project (60%)
 
 * Students in teams by 2
-* [Submit you proposal here] TBA
+* [Submit you proposal here](https://forms.gle/ApDvW7zEToCNjh1SA)
 * Deadline for topic approval: 3rd of December 2024
-* Deadline:   3rd of February 2025
+* Deadline: 6rd of February 2025
 
 #### Projects' Evaluation criteria
 
