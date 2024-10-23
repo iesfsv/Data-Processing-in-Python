@@ -24,7 +24,7 @@ Please reserve your date and time of the consultation [Link TBA] - the first two
 
 * The course is held **in-person** and there is by default **no online** option.
 
-## Schedule (preliminary)
+## Schedule (updated Oct 23)
 
 | WEEK | DATE | L/S | TOPIC | LECTURER | DEADLINE |
 | --- | --- | --- | --- | --- | --- |
@@ -37,16 +37,16 @@ Please reserve your date and time of the consultation [Link TBA] - the first two
 | 5 | 29/10 | L | Pandas II + Matplotlib  | Luboš | HW 2 |
 | 6 | 4/11 | S | Seminar 2: Numpy & pandas | Luboš | |
 | 6 | 5/11 | L | Data formats, APIs | Luboš | |
-| 7 | 11/11-12/11 | S, L | No seminar, no lecture | - | - |
-| 8 | 18/11 | S | Seminar 3: Data formats & APIs | Luboš | HW 3 |
-| 8 | 19/11 | L | Algorithmic problem solving | Luboš | |
+| 7 | 11/11-12/11 | S, L | *(almost sure)* A class on Nov 12 | - | - |
+| 8 | ~~18/11~~ | ~~S~~ | ~~Seminar 3: Data formats & APIs~~| Luboš | |
+| 8 | 19/11 | L | Algorithmic problem solving | Luboš | HW 3 |
 | 9 | 25/11 | - | MIDTERM | Luboš & Vilém | |
-| 9 | 26/11 | L | Data Science | Luboš | |
+| 9 | 26/11 | L | Data science | Luboš | |
 | 10 | 2/12 | S | Seminar 4: Midterm solution | Vilém | |
-| 10 | 3/12 | L | Data science | Luboš | |
+| 10 | 3/12 | L | Mixed topics: probably polars, beautifulsoup, SQL, etc. | Luboš | |
 | 11 | 9/12 | S | Seminar 5: Data science case-study | Vilém | |
 | 11 | 10/12 | L | How to code (avoiding spaghetti code) | Luboš | Project proposal |
-| 12 | 17/12 | L | Guest Lecture @ TBA | TBA | |
+| 12 | 17/12 | L | Guest Lecture @ TBA | Luboš & Vilém | |
 | 13 | 6/1-8/1 | - | WiP: Project consultations | Luboš & Vilém | |
 | 14 | 13/1-15/1 | - | WiP: Project consultations | Luboš & Vilém | |
 
@@ -95,7 +95,7 @@ At least 50% from the homeworks assignments and work-in-progress presentation is
   * Link to the problem
   * Print page showing your solution and submission statistics
     * Like this: [Path Sum III - Submission Detail - LeetCode.pdf](/99_files/PathSumIII-SubmissionDetail-LeetCode.pdf)
-    * **EDIT:** You can access the **statistics** of your **solution** (even it is not accepted by *leetcode*) via the top right button to your `profile`. You go to your `submissions`, then column `status` and you obtain the `solution details`. These details you save/print to `.PDF` and upload.
+    * **EDIT:** You can access the **statistics** of your **solution** (even it is not accepted by *leetcode*) via the top right button to your `profile`. You go to your `submissions`, then column `status` and you obtain the `solution details`. These details you save/print to `.PDF` and upload. **Your `name` or `e-mail` must be legible in the PDF of your submission**
   * Plain text of your script (in python 3!)
 
 * Rules:
