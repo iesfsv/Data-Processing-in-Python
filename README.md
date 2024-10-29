@@ -37,8 +37,7 @@ Please reserve your date and time of the consultation [Link](https://docs.google
 | 5 | 29/10 | L | Pandas II + Matplotlib  | Luboš | HW 2 |
 | 6 | 4/11 | S | Seminar 2: Numpy & pandas | Luboš | |
 | 6 | 5/11 | L | Data formats, APIs | Luboš | |
-| 7 | 11/11-12/11 | S, L | *(almost sure)* A class on Nov 12 | - | - |
-| 8 | ~~18/11~~ | ~~S~~ | ~~Seminar 3: Data formats & APIs~~| Luboš | |
+| 7 | 12/11 | L | *[updated]* Seminar 3: Data formats & APIs | Luboš | - |
 | 8 | 19/11 | L | Algorithmic problem solving | Luboš | HW 3 |
 | 9 | 25/11 | - | MIDTERM | Luboš & Vilém | |
 | 9 | 26/11 | L | Data science | Luboš | |
