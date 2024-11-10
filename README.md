@@ -37,17 +37,17 @@ Please reserve your date and time of the consultation [Link](https://docs.google
 | 5 | 29/10 | L | Pandas II + Matplotlib  | Luboš | HW 2 |
 | 6 | 4/11 | S | Seminar 2: Numpy & pandas | Luboš | |
 | 6 | 5/11 | L | Data formats, APIs | Luboš | |
-| 7 | 12/11 | L | *[updated]* Seminar 3: Data formats & APIs | Luboš | - |
+| 7 | 12/11 | L | Seminar 3: Data formats & APIs | Luboš | - |
 | 8 | 19/11 | L | Algorithmic problem solving | Luboš | HW 3 |
-| 9 | 25/11 | - | MIDTERM | Luboš & Vilém | |
+| 9 | 25/11 | - | **MIDTERM** | Luboš & Vilém | |
 | 9 | 26/11 | L | Data science | Luboš | |
 | 10 | 2/12 | S | Seminar 4: Midterm solution | Vilém | |
-| 10 | 3/12 | L | Mixed topics: probably polars, beautifulsoup, SQL, etc. | Luboš | |
+| 10 | 3/12 | L | How to code (avoiding spaghetti code) | Luboš | |
 | 11 | 9/12 | S | Seminar 5: Data science case-study | Vilém | |
-| 11 | 10/12 | L | How to code (avoiding spaghetti code) | Luboš | Project proposal |
-| 12 | 17/12 | L | Guest Lecture @ TBA | Luboš & Vilém | |
-| 13 | 6/1-8/1 | - | WiP: Project consultations | Luboš & Vilém | |
-| 14 | 13/1-15/1 | - | WiP: Project consultations | Luboš & Vilém | |
+| 11 | 10/12 | L | Mixed topics: Databases, Polars, etc. | Luboš | Project proposal |
+| 12 | 17/12 | L | Guest Lecture @ TBA, Beer after lecture (place TBA) | Luboš & Vilém | |
+| 13 | 6/1-8/1 | - | **WiP:** Project consultations | Luboš & Vilém | |
+| 14 | 13/1-15/1 | - | **WiP:** Project consultations | Luboš & Vilém | |
 
 ## Course requirements
 
