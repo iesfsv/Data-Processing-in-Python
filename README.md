@@ -7,7 +7,9 @@ The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See info
 ## Midterm: November 25, 2024 (25%)
 
 * Live coding (80 minutes), "open browser", no collaboration between the students, AI is prohibited to use.
-* **Setup** of the [link](09_week/midterm_2024ws_setup.pdf)
+
+<!-- * **Setup** of the [link](09_week/midterm_2024ws_setup.pdf) -->
+* **Setup** of the midterm: [link](09_week/Midterm_tasks_2024ws.pdf)
 * Form where to **submit** the midterm - [Solution HERE](https://forms.gle/yTCh7Z9qBkmX63Jd8)
 * Online link to the course: [link to MS Teams from SIS](https://teams.microsoft.com/l/team/19:hhPWslsqte_OGNxXmfZkydhk05JX6_SfqEh4_6cnpac1@thread.tacv2/conversations?groupId=dbb6fc60-f858-4084-8e89-3cb9bbe1b4a0&tenantId=e09276da-f934-4086-bf08-8816a20414a2)
 
