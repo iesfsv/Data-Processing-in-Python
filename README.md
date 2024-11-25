@@ -2,9 +2,16 @@
 
 The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Luboš Hanus](mailto:lubos.hanus@fsv.cuni.cz) and [Vilém Krejcar](mailto:vilem.krejcar@fsv.cuni.cz).
 
-<!-- ## Communication
-Please direct all questions to Vílem Krejcar preferably.
--->
+------
+
+## Midterm: November 25, 2024 (25%)
+
+* Live coding (80 minutes), "open browser", no collaboration between the students, AI is prohibited to use.
+* **Setup** of the [link](09_week/midterm_2024ws_setup.pdf)
+* Form where to **submit** the midterm - [Solution HERE](https://forms.gle/yTCh7Z9qBkmX63Jd8)
+* Online link to the course: [link from SIS]()
+
+------
 
 ## Final project (quick info, more info below)
 
@@ -40,8 +47,8 @@ Please reserve your date and time of the consultation [Link](https://docs.google
 | 7 | 12/11 | L | Seminar 3: Data formats & APIs | Luboš | - |
 | 8 | 19/11 | L | Algorithmic problem solving | Luboš | HW 3 |
 | 9 | 25/11 | - | **MIDTERM** | Luboš & Vilém | |
-| 9 | 26/11 | L | Data science | Luboš | |
-| 10 | 2/12 | S | Seminar 4: Midterm solution | Vilém | |
+| 9 | 26/11 | S | Seminar 4: Midterm solution | Vilém | |
+| 10 | 2/12 | L | Data science | Luboš | |
 | 10 | 3/12 | L | How to code (avoiding spaghetti code) | Luboš | |
 | 11 | 9/12 | S | Seminar 5: Data science case-study | Vilém | |
 | 11 | 10/12 | L | Mixed topics: Databases, Polars, etc. | Luboš | Project proposal |
