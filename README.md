@@ -23,7 +23,7 @@ The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See info
 
 ### WiP consultations
 
-Please reserve your date and time of the consultation [Link](https://docs.google.com/spreadsheets/d/1vv13AmQ1eQNxM5v2V0e5vEUc2ibgbjH9wdj-_gyamYc/edit?usp=sharing) - the first two weeks of Jan 2025.
+Please reserve your date and time of the consultation [Link](https://docs.google.com/spreadsheets/d/1vv13AmQ1eQNxM5v2V0e5vEUc2ibgbjH9wdj-_gyamYc/edit?usp=sharing) - **the first two weeks of Jan 2025**.
 
 * See full instructions below schedule.
 
@@ -53,15 +53,15 @@ Please reserve your date and time of the consultation [Link](https://docs.google
 | 10 | 2/12 | L | Data science | Luboš | |
 | 10 | 3/12 | L | How to code (avoiding spaghetti code) | Luboš | |
 | 11 | 9/12 | S | Seminar 5: Data science case-study | Vilém | |
-| 11 | 10/12 | L | Mixed topics: Databases, Polars, etc. | Luboš | Project proposal |
-| 12 | 17/12 | L | Guest Lecture @ TBA, Beer after lecture (place TBA) | Luboš & Vilém | |
+| 11 | 10/12 | L | Mixed topics | Luboš | Project proposal |
+| 12 | 17/12 | L | Guest Lecture: [Jiří Nosek](https://www.linkedin.com/in/nosekjiri/) (exIES, Albert CZ) | Luboš & Vilém | |
 | 13 | 6/1-8/1 | - | **WiP:** Project consultations | Luboš & Vilém | |
 | 14 | 13/1-15/1 | - | **WiP:** Project consultations | Luboš & Vilém | |
 
 ## Course requirements
 
 The requirements for passing the course are homeworks (5pts), the midterm (25pts), work in-progress-presentation (10pts), and the final project - including the final delivery presentation (60pts).
-At least 50% from the homeworks assignments and work-in-progress presentation is required for passing the course.
+At least 50% from the **homeworks assignments** and **work-in-progress** presentation is required for passing the course.
 
 ### Final project (60%)
 
