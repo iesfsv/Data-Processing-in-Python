@@ -12,6 +12,7 @@ __pycache__/
 wspace/
 requirements.txt
 *.sqlite
+.pytest_cache/
 # --- macOS ---
 
 .DS_Store
