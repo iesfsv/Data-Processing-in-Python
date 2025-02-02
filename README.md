@@ -6,7 +6,7 @@ The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See info
 
 ## For students of Winter semester 2024/2025
 
-* Final project **deadline**: 6rd of February 2025, **send link to your project github repository** via e-mail to both of us Luboš Hanus and Vilém Krejcar.
+* Final project **deadline**: 6th of February 2025, **send link to your project github repository** via e-mail to both of us Luboš Hanus and Vilém Krejcar.
 
 ------
 
@@ -20,7 +20,7 @@ The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See info
 
 ## Schedule (updated Feb 2)
 
-Here’s your schedule with the semester beginning on February 17th:  
+Here's your schedule with the semester beginning on February 17th:  
 
 | WEEK | DATE | L/S | TOPIC | LECTURER | DEADLINE |
 | --- | --- | --- | --- | --- | --- |
