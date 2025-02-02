@@ -4,17 +4,25 @@ The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See info
 
 ------
 
-## Midterm: November 25, 2024 (25%)
+## For students of Winter semester 2024/2025
+
+* Final project **deadline**: 6rd of February 2025, **send link to your project github repository** via e-mail to both of us Luboš Hanus and Vilém Krejcar.
+
+------
+
+## Informaton for the upcoming summer semester 2025
 
 <!-- 
+
+## Midterm: November 25, 2024 (25%)
+
 * Live coding (80 minutes), "open browser", no collaboration between the students, AI is prohibited to use.
 
 * **Setup** of the [link](09_week/midterm_2024ws_setup.pdf)
 * Form where to **submit** the midterm - [Solution HERE](https://forms.gle/yTCh7Z9qBkmX63Jd8)
 * Online link to the course: [link to MS Teams from SIS](https://teams.microsoft.com/l/team/19:hhPWslsqte_OGNxXmfZkydhk05JX6_SfqEh4_6cnpac1@thread.tacv2/conversations?groupId=dbb6fc60-f858-4084-8e89-3cb9bbe1b4a0&tenantId=e09276da-f934-4086-bf08-8816a20414a2) -->
 
-------
-
+<!--
 ## Final project (quick info, more info below)
 
 ### Project - paring
@@ -26,6 +34,7 @@ The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See info
 Please reserve your date and time of the consultation [Link](https://docs.google.com/spreadsheets/d/1vv13AmQ1eQNxM5v2V0e5vEUc2ibgbjH9wdj-_gyamYc/edit?usp=sharing) - **the first two weeks of Jan 2025**.
 
 * See full instructions below schedule.
+-->
 
 ## FAQ - pre semester
 
@@ -33,46 +42,56 @@ Please reserve your date and time of the consultation [Link](https://docs.google
 
 * The course is held **in-person** and there is by default **no online** option.
 
-## Schedule (updated Oct 23)
+## Schedule (updated Feb 2)
+
+Here’s your schedule with the semester beginning on February 17th:  
 
 | WEEK | DATE | L/S | TOPIC | LECTURER | DEADLINE |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 30/9 | S | Seminar 0: Setup (Jupyter, VScode, Git, OS basics) | Luboš | |
-| 1 | 1/10 | L | Python basics | Luboš | |
-| 2 | 8/10 | L | Python basics II | Luboš | |
-| 3 | 14/10 | S | Seminar 1: Basics | Luboš | |
-| 3 | 15/10 | L | Numpy | Luboš | HW 1 |
-| 4 | 22/10 | L | Pandas I | Luboš | |
-| 5 | 29/10 | L | Pandas II + Matplotlib  | Luboš | HW 2 |
-| 6 | 4/11 | S | Seminar 2: Numpy & pandas | Luboš | |
-| 6 | 5/11 | L | Data formats, APIs | Luboš | |
-| 7 | 12/11 | L | Seminar 3: Data formats & APIs | Luboš | - |
-| 8 | 19/11 | L | Algorithmic problem solving | Luboš | HW 3 |
-| 9 | 25/11 | - | **MIDTERM** | Luboš & Vilém | |
-| 9 | 26/11 | S | Seminar 4: Midterm solution | Vilém | |
-| 10 | 2/12 | L | Data science | Luboš | |
-| 10 | 3/12 | L | How to code (avoiding spaghetti code) | Luboš | |
-| 11 | 9/12 | S | Seminar 5: Data science case-study | Vilém | |
-| 11 | 10/12 | L | Mixed topics: pkg, tests, docs, sql | Luboš | Project proposal |
-| 12 | 17/12 | L | Guest Lecture: [Jiří Nosek](https://www.linkedin.com/in/nosekjiri/) (exIES, Albert CZ) , Beer with Jiří and class-members after the lecture at Pivovarský dům Benedict [website](https://www.pivo-dum.cz), 8:15pm | Luboš & Vilém | |
-| 13 | 6/1-8/1 | - | **WiP:** Project consultations | Luboš & Vilém | |
-| 14 | 13/1-15/1 | - | **WiP:** Project consultations | Luboš & Vilém | |
+| 1 | 17/2 | S | Seminar 0: Setup (Jupyter, VScode, Git, OS basics) | Luboš | |
+| 1 | 18/2 | L | Python basics | Luboš | |
+| 2 | 25/2 | L | Python basics II | Luboš | |
+| 2 | 26/2 | S | Seminar 1: Basics | Vilém | |
+| 3 | 3/3 | L | Numpy | Luboš | HW 1 |
+| 4 | 10/3 | L | Pandas I | Luboš | |
+| 4 | 11/3 | S | Seminar 2: Numpy & pandas | Vilém | HW 2 |
+| 5 | 17/3 | L | Pandas II + Matplotlib  | Luboš | |
+| 5 | 18/3 | S | Seminar 3: Data formats & APIs | Vilém | - |
+| 6 | 24/3 | L | Data formats, APIs | Luboš | HW 3 |
+| 7 | 31/3 | - | **MIDTERM** | Luboš & Vilém | |
+| 7 | 1/4 | S | Seminar 4: Midterm solution | Vilém | |
+| 8 | 7/4 | L | Algorithmic problem solving | Luboš | |
+| 9 | 14/4 | L | Data science | Luboš | |
+| 10 | 21/4 | L | How to code (avoiding spaghetti code) | Luboš | |
+| 10 | 22/4 | S | Seminar 5: Data science case-study | Vilém | Project proposal approval|
+| 11 | 28/4 | L | Mixed topics: pkg, tests, docs, sql | Luboš |  |
+| 12 | 5/5 | L | Guest Lecture: TBA, Beer with the guest and class-members after the lecture at TBA, 8:15pm | Luboš & Vilém | |
+| 13 | 12/5 | - | | | |
+| 14 | 19/5 | - | | | |
+| 15 | 26/5-28/5 | - | **WiP:** Project consultations | Luboš & Vilém | |
+| 16 | 2/6-6/6 | - | **WiP:** Project consultations | Luboš & Vilém | |
+| 17 | 9/6 | - | | | |
+| 18 | 16/6 | - | **Deadline Final Project** - submit | Luboš & Vilém | |
 
+Let me know if you need any other adjustments! 😊
+  
 ## Course requirements
 
-The requirements for passing the course are homeworks (5pts), the midterm (25pts), work in-progress-presentation (10pts), and the final project - including the final delivery presentation (60pts).
+The requirements for passing the course are homeworks (**5pts**), the midterm (**25pts**), work in-progress-presentation (**10pts**), and the final project - including the final delivery presentation (**60pts**).
+
 At least 50% from the **homeworks assignments** and **work-in-progress** presentation is required for passing the course.
 
 ### Final project (60%)
 
 * Students in teams by 2
-* [Submit you proposal here](https://forms.gle/ApDvW7zEToCNjh1SA)
-* Deadline for topic approval: 10th of December 2024
-* Deadline: 6rd of February 2025
+* Submit your proposal here [TBA]
+<!-- * [Submit you proposal here](https://forms.gle/ApDvW7zEToCNjh1SA) -->
+* Deadline for topic approval: 22nd of April 2025
+* Deadline: 16th of June 2025 (possibly in September - not prefered)
 
 #### Projects' Evaluation criteria
 
-* Use of git by both - 5pts
+* Use of git by both students - 5pts
   * meaningful commit messages
 * Pythonic code principles - 5 pts
   * Provide requirements.txt file of the dependencies with versions (can use pip freeze) so that we can install with `pip install -r requirements.txt`
@@ -94,6 +113,7 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
 ## Midterm exam (25%)
 
 * Live coding (80 minutes), "open browser", no collaboration between the students.
+* No artificial intelligence
 * More details during the lecture the week before
 
 ## Homework Assignments (5%)
