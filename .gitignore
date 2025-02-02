@@ -13,6 +13,9 @@ wspace/
 requirements.txt
 *.sqlite
 .pytest_cache/
+
+previousyears/
+
 # --- macOS ---
 
 .DS_Store
