@@ -18,7 +18,7 @@ The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See info
 
 * The course is held **in-person** and there is by default **no online** option.
 
-## Schedule (updated Feb 2)
+## Schedule (updated Feb 17)
 
 Here's your schedule with the semester beginning on February 17th:  
 
@@ -38,16 +38,18 @@ Here's your schedule with the semester beginning on February 17th:
 | 7 | 1/4 | S | Seminar 4: Midterm solution | Vilém | |
 | 8 | 7/4 | L | Algorithmic problem solving | Luboš | |
 | 9 | 14/4 | L | Data science | Luboš | |
-| 10 | 21/4 | L | How to code (avoiding spaghetti code) | Luboš | |
-| 10 | 22/4 | S | Seminar 5: Data science case-study | Vilém | Project proposal approval|
-| 11 | 28/4 | L | Mixed topics: pkg, tests, docs, sql | Luboš |  |
-| 12 | 5/5 | L | Guest Lecture: TBA, Beer with the guest and class-members after the lecture at TBA, 8:15pm | Luboš & Vilém | |
-| 13 | 12/5 | - | | | |
+| 10 | 21/4 | - | No lecture - The Easter Monday | | |
+| 11 | 28/4 | L | How to code (avoiding spaghetti code) | Luboš | |
+| 11 | 29/4 | S | Seminar 5: Data science case-study | Vilém | Project proposal approval|
+| 12 | 5/5 | L | Mixed topics: pkg, tests, docs, sql | Luboš |  |
+| 13 | 12/5 | L | Guest Lecture: TBA, Beer with the guest and class-members after the lecture at TBA, 8:15pm | Luboš & Vilém | |
 | 14 | 19/5 | - | | | |
 | 15 | 26/5-28/5 | - | **WiP:** Project consultations | Luboš & Vilém | |
 | 16 | 2/6-6/6 | - | **WiP:** Project consultations | Luboš & Vilém | |
 | 17 | 9/6 | - | | | |
 | 18 | 16/6 | - | **Deadline Final Project** - submit | Luboš & Vilém | |
+
+Topis of the last weeks of the semester might be changed.
 
 Let me know if you need any other adjustments! 😊
   
