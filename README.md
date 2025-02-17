@@ -26,8 +26,8 @@ Here's your schedule with the semester beginning on February 17th:
 | --- | --- | --- | --- | --- | --- |
 | 1 | 17/2 | S | Seminar 0: Setup (Jupyter, VScode, Git, OS basics) | Luboš | |
 | 1 | 18/2 | L | Python basics | Luboš | |
-| 2 | 25/2 | L | Python basics II | Luboš | |
-| 2 | 26/2 | S | Seminar 1: Basics | Vilém | |
+| 2 | 24/2 | L | Python basics II | Luboš | |
+| 2 | 25/2 | S | Seminar 1: Basics | Vilém | |
 | 3 | 3/3 | L | Numpy | Luboš | HW 1 |
 | 4 | 10/3 | L | Pandas I | Luboš | |
 | 4 | 11/3 | S | Seminar 2: Numpy & pandas | Vilém | HW 2 |
