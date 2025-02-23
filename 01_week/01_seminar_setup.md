@@ -42,6 +42,14 @@ Finally, also install Visual Studio Code (VScode): https://code.visualstudio.com
 
 *Thank you!*
 
+#### Additionally, you could consult these resources:
+
+Installing python3 on Windows if not using Anaconda:
+https://www.digitalocean.com/community/tutorials/install-python-windows-10
+
+Installing python3 on macOS if not using Anaconda but homebrew:
+https://www.geeksforgeeks.org/how-to-install-python-on-mac/
+
 ------
 
 *Seminar 0 continues here:*

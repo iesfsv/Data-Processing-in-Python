@@ -1,10 +1,3 @@
-# test script for students
-print("Hello, World!")
+# test
 
-print("NEW change")
-
-# create a new function sums a and b
-def sum(a, b):
-    return a + b
-
-print(sum(1, 2))
+print(1+1)
