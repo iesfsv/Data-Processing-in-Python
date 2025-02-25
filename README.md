@@ -30,7 +30,7 @@ Here's your schedule with the semester beginning on February 17th:
 | 2 | 25/2 | S | Seminar 1: Basics | Vilém | |
 | 3 | 3/3 | L | Numpy | Luboš | HW 1 |
 | 4 | 10/3 | L | Pandas I | Luboš | |
-| 4 | 11/3 | S | Seminar 2: Numpy & pandas | Vilém | HW 2 |
+| 4 | 11/3 | S | Seminar 2: Numpy & pandas | Luboš | HW 2 |
 | 5 | 17/3 | L | Pandas II + Matplotlib  | Luboš | |
 | 5 | 18/3 | S | Seminar 3: Data formats & APIs | Vilém | - |
 | 6 | 24/3 | L | Data formats, APIs | Luboš | HW 3 |
@@ -74,14 +74,16 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
 * Pythonic code principles - 5 pts
   * Provide requirements.txt file of the dependencies with versions (can use pip freeze) so that we can install with `pip install -r requirements.txt`
   * code is more often read than written, EAFP (Easier to Ask for Forgiveness than Permission)
-* Runnable code - 15 pts
+* Runnable code - 10 pts
   * by far the most important one! The project needs to run from scratch after installing versioned requirements.
-    * provide requirements.txt file with specific versions of packages (use pip freeze to get it), and specify your precise Python version. 
 * Code structure - 15 pts
   * functions (classes), properly named variables
 * README, documentation - 5 pts
 * Analysis, visualization - 15 pts
   * highlight key points of your project, give it some narrative
+* Difficulty choice - 5 pts
+  * this criteria is subjective and is dependent entirely on your skill
+  * the goal is to challenge yourselves and learn something new, regardless if you're a Python novice or you write python code every week
 
 ## Project work - presentation (10%)
 
