@@ -99,7 +99,7 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
 ## Homework Assignments (5%)
 
 * Create [leetcode.com](https://leetcode.com) account
-* You are expected to submit in a specified [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdYoxy7uZpZAoCRjT4FdWfCy3KWZUT36AviUB_ms-hbtrplRQ/viewform?usp=sharing):
+* You are expected to submit in a specified [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdYoxy7uZpZAoCRjT4FdWfCy3KWZUT36AviUB_ms-hbtrplRQ/viewform?usp=sharing) (Please make sure to use your Charles University email address, xxxxxxxx@fsv.cuni.cz):
   * Link to the problem
   * Print page showing your solution and submission statistics
     * Like this: [Path Sum III - Submission Detail - LeetCode.pdf](/99_files/PathSumIII-SubmissionDetail-LeetCode.pdf)
