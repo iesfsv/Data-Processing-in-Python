@@ -62,10 +62,12 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
 ### Final project (60%)
 
 * Students in teams by 2
-* Submit your proposal here [TBA]
-<!-- * [Submit you proposal here](https://forms.gle/ApDvW7zEToCNjh1SA) -->
+<!-- * Submit your proposal here [TBA] -->
+* [Submit you proposal here](https://forms.gle/Lo1c2YxTQkwewRuL7)
 * Deadline for topic approval: 22nd of April 2025
-* Deadline: 16th of June 2025 (possibly in September - not prefered)
+* Deadline to attend the WiP consultation: 6th of June 2025
+* Deadline for completed project: 16th of June 2025 (possibly in September - not prefered)
+
 
 #### Projects' Evaluation criteria
 
