@@ -30,10 +30,11 @@ Here's your schedule with the semester beginning on February 17th:
 | 2 | 25/2 | S | Seminar 1: Basics | Vilém | |
 | 3 | 3/3 | L | Numpy | Luboš | HW 1 |
 | 4 | 10/3 | L | Pandas I | Luboš | |
-| 4 | 11/3 | S | Seminar 2: Numpy & pandas | Luboš | HW 2 |
-| 5 | 17/3 | L | Pandas II + Matplotlib  | Luboš | |
-| 5 | 18/3 | S | Seminar 3: Data formats & APIs | Vilém | - |
+| 4 | 11/3 | S | "CANCELED" = **Shifted** to the next week | Luboš | HW 2 |
+| 5 | 17/3 | S | Seminar 2: Numpy & pandas | Luboš | |
+| 5 | 18/3 | L | Pandas II + Matplotlib  | Luboš | |
 | 6 | 24/3 | L | Data formats, APIs | Luboš | HW 3 |
+| 6 | 25/3 | S | Seminar 3: Data formats & APIs | Vilém | - |
 | 7 | 31/3 | - | **MIDTERM** | Luboš & Vilém | |
 | 7 | 1/4 | S | Seminar 4: Midterm solution | Vilém | |
 | 8 | 7/4 | L | Algorithmic problem solving | Luboš | |
