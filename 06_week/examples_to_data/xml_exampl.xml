@@ -1,0 +1,18 @@
+<employees>
+    <employee>
+        <name>Alice</name>
+        <age>28</age>
+        <department>Engineering</department>
+        <salary>5000</salary>
+    </employee>
+    <employee>
+        <name>Bob</name>
+        <age>34</age>
+        <department>HR</department>
+    </employee>
+    <employee>
+        <name>Charlie</name>
+        <age>25</age>
+        <department>Marketing</department>
+    </employee>
+</employees>

@@ -1,0 +1,10 @@
+employees:
+  - name: Alice
+    age: 28
+    department: Engineering
+  - name: Bob
+    age: 34
+    department: HR
+  - name: Charlie
+    age: 25
+    department: Marketing
