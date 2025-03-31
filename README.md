@@ -10,6 +10,14 @@ The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See info
 ------
 -->
 
+## MIDTERM: MARCH 31, 2025
+
+### Setup link
+
+Deadline: 19:50 via the form.
+
+[LINK](https://drive.google.com/file/d/14uWWQMhYYWXHhPY-hoYEugtXUT9KzByi/view?usp=share_link)
+
 ## Informaton for the upcoming summer semester 2025
 
 ## FAQ - pre semester
@@ -18,7 +26,7 @@ The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See info
 
 * The course is held **in-person** and there is by default **no online** option.
 
-## Schedule (updated Feb 17)
+## Schedule (updated March 31)
 
 Here's your schedule with the semester beginning on February 17th:  
 
@@ -30,13 +38,12 @@ Here's your schedule with the semester beginning on February 17th:
 | 2 | 25/2 | S | Seminar 1: Basics | Vilém | |
 | 3 | 3/3 | L | Numpy | Luboš | HW 1 |
 | 4 | 10/3 | L | Pandas I | Luboš | |
-| 4 | 11/3 | - | - | - | HW 2 |
+| 4 | 11/3 | S | Seminar 2: Numpy & pandas | Luboš | HW 2 |
 | 5 | 17/3 | L | Pandas II + Matplotlib  | Luboš | |
-| 5 | 18/3 | S | Seminar 2: Numpy & pandas | Vilém | |
+| 5 | 18/3 | S | Seminar 3: Data formats & APIs | Vilém | - |
 | 6 | 24/3 | L | Data formats, APIs | Luboš | HW 3 |
-| 6 | 25/3 | S | Seminar 3: Data formats & APIs | Vilém | - |
 | 7 | 31/3 | - | **MIDTERM** | Luboš & Vilém | |
-| 7 | 1/4 | S | Seminar 4: Midterm solution | Vilém | |
+| 7 | 1/4 | S | Seminar 4: Midterm solution | Luboš | |
 | 8 | 7/4 | L | Algorithmic problem solving | Luboš | |
 | 9 | 14/4 | L | Data science | Luboš | |
 | 10 | 21/4 | - | No lecture - The Easter Monday | | |
@@ -63,12 +70,11 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
 ### Final project (60%)
 
 * Students in teams by 2
-* Matching spreadsheet if you are alone :) [HERE](https://docs.google.com/spreadsheets/d/1i35pSZcNPoxzA7_RwpYkGdjvlNV8YXt2SdojpBzLV-w/edit?usp=sharing)
+<!-- * Submit your proposal here [TBA] -->
 * [Submit you proposal here](https://forms.gle/Lo1c2YxTQkwewRuL7)
 * Deadline for topic approval: 22nd of April 2025
 * Deadline to attend the WiP consultation: 6th of June 2025
 * Deadline for completed project: 16th of June 2025 (possibly in September - not prefered)
-
 
 #### Projects' Evaluation criteria
 
