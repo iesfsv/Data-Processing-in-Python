@@ -2,23 +2,18 @@
 
 The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Luboš Hanus](mailto:lubos.hanus@fsv.cuni.cz) and [Vilém Krejcar](mailto:vilem.krejcar@fsv.cuni.cz).
 
-<!-- 
-------
-## For students of Winter semester 2024/2025
+## Upcoming
 
-* Final project **deadline**: 6th of February 2025, **send link to your project github repository** via e-mail to both of us Luboš Hanus and Vilém Krejcar. 
-------
--->
+1) Submissions of project proposals
+2) Work-in-progress consultations
+3) Project submissions
 
-## MIDTERM: MARCH 31, 2025
+Final project **deadline**: September 2025, but preferably **before 16th of June, 2025** (midnight).
 
-### Setup link
+- **Send link to your project github repository** via e-mail to both of us Luboš Hanus and Vilém Krejcar.
 
-Deadline: 19:50 via the form.
 
-[LINK](https://drive.google.com/file/d/14uWWQMhYYWXHhPY-hoYEugtXUT9KzByi/view?usp=share_link)
-
-## Informaton for the upcoming summer semester 2025
+## Information for the summer semester of 2025
 
 ## FAQ - pre semester
 
