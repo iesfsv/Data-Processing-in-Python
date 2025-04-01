@@ -41,9 +41,10 @@ Here's your schedule with the semester beginning on February 17th:
 | 7 | 1/4 | S | Seminar 4: Midterm solution | Luboš | |
 | 8 | 7/4 | L | Algorithmic problem solving | Luboš | |
 | 9 | 14/4 | L | Data science | Luboš | |
+| 9 | 15/4 | S | Seminar 5: Data science case-study | Vilém | |
 | 10 | 21/4 | - | No lecture - The Easter Monday | | |
 | 11 | 28/4 | L | How to code (avoiding spaghetti code) | Luboš | |
-| 11 | 29/4 | S | Seminar 5: Data science case-study | Vilém | Project proposal approval|
+| 11 | 29/4 | - |  | Luboš & Vilém | Project proposal approval|
 | 12 | 5/5 | L | Mixed topics: pkg, tests, docs, sql | Luboš |  |
 | 13 | 12/5 | L | Guest Lecture: TBA, Beer with the guest and class-members after the lecture at TBA, 8:15pm | Luboš & Vilém | |
 | 14 | 19/5 | - | | | |
