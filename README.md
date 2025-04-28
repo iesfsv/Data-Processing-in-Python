@@ -48,7 +48,7 @@ Here's your schedule with the semester beginning on February 17th:
 | 11 | 28/4 | L | How to code (avoiding spaghetti code) | Luboš | |
 | 11 | 29/4 | - |  | Luboš & Vilém | Project proposal approval|
 | 12 | 5/5 | L | Mixed topics: pkg, tests, docs, sql | Luboš |  |
-| 13 | 12/5 | L | Guest Lecture: TBA, Beer with the guest and class-members after the lecture at TBA, 8:15pm | Luboš & Vilém | |
+| 13 | 12/5 | L | Guest Lecture: František Kaláb & Benedikt Kotmel from [Golemio](https://golemio.cz/english), Beer with the guest and class-members after the lecture at TBA, 8:15pm | Luboš & Vilém | |
 | 14 | 19/5 | - | | | |
 | 15 | 26/5-28/5 | - | **WiP:** Project consultations | Luboš & Vilém | |
 | 16 | 2/6-6/6 | - | **WiP:** Project consultations | Luboš & Vilém | |
