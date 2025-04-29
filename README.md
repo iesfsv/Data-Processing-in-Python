@@ -71,8 +71,8 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
 <!-- * Submit your proposal here [TBA] -->
 * [Submit you proposal here](https://forms.gle/Lo1c2YxTQkwewRuL7)
 * Deadline for topic submission (week to consult): 22nd of April 2025
-* Deadline to attend the WiP consultation: 6th of June 2025
-* Deadline for completed project: 16th of June 2025 (possibly in September - not prefered)
+* Deadline to attend the WiP consultation: 6th of June 2025, [link to book meeting](https://docs.google.com/spreadsheets/d/16iAHASVecjxen7hiAfzkIUTuAKUd9ygXm7OsxmAb9KE/edit?usp=sharing)
+* Deadline for completed project: 16th of June 2025 (can be postponed upon request, also possibly in September - but not prefered)
 
 #### Projects' Evaluation criteria
 
