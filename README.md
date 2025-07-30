@@ -1,6 +1,8 @@
 # Data Processing in Python (JEM207)
 
-The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Luboš Hanus](mailto:lubos.hanus@fsv.cuni.cz) and [Vilém Krejcar](mailto:vilem.krejcar@fsv.cuni.cz).
+The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The information below are related to the Summer Semester 2025. An update for the Winter Semester 2025/2026 will be provided shortly before the semester begins.
+
+The course is taught by [Luboš Hanus](mailto:lubos.hanus@fsv.cuni.cz) and [Vilém Krejcar](mailto:vilem.krejcar@fsv.cuni.cz).
 
 ## Upcoming
 
