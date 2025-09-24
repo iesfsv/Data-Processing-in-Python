@@ -1,63 +1,66 @@
 # Data Processing in Python (JEM207)
 
-The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The information below are related to the Summer Semester 2025. An update for the Winter Semester 2025/2026 will be provided shortly before the semester begins.
+The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The information below are related to the Winter Semester 2025/2026.
 
-The course is taught by [Luboš Hanus](mailto:lubos.hanus@fsv.cuni.cz) and [Vilém Krejcar](mailto:vilem.krejcar@fsv.cuni.cz).
+The course is taught by [Josef Kurka](mailto:josef.kurka@fsv.cuni.cz).
 
-## Upcoming
+## Upcoming project work
 
 0) Matching document: [link](https://docs.google.com/spreadsheets/d/1i35pSZcNPoxzA7_RwpYkGdjvlNV8YXt2SdojpBzLV-w/edit?usp=sharing)
 
-1) Submissions of project proposals
-2) Work-in-progress consultations
-3) Project submissions
+1) Submissions of project proposals - 8/12/2025
+2) Work-in-progress consultations - 01/2026
+3) Project submissions - 26/1/2025
 
-Final project **deadline**: September 2025, but preferably **before 16th of June, 2025** (midnight).
+Final project **deadline**: January 2026 before midnight. Late submissions will be awarded **0 points**.
 
-- **Send link to your project github repository** via e-mail to both of us Luboš Hanus and Vilém Krejcar.
+- **Send link to your project github repository** via e-mail.
 
-
-## Information for the summer semester of 2025
+## Information for the winter semester of 2025/2026
 
 ## FAQ - pre semester
 
 * If you are on **waiting list** there is *nothing* we can do to enroll you. We managed to master somehow `python`, but SIS is something else. We follow the rules. Students usually drop from the course during the first week of the semester so **there is a good chance** you will be able to register.
 
-* The course is held **in-person** and there is by default **no online** option.
+* The course is held in **hybrid** mode, the **no online** option applies only to the students with a granted request.
 
-## Schedule (updated March 31)
+## Schedule (updated September 23)
 
-Here's your schedule with the semester beginning on February 17th:  
+Here's your schedule with the semester beginning on September 29:  
 
-| WEEK | DATE | L/S | TOPIC | LECTURER | DEADLINE |
+| WEEK | DATE | L/S | TOPIC | DEADLINE |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 17/2 | S | Seminar 0: Setup (Jupyter, VScode, Git, OS basics) | Luboš | |
-| 1 | 18/2 | L | Python basics | Luboš | |
-| 2 | 24/2 | L | Python basics II | Luboš | |
-| 2 | 25/2 | S | Seminar 1: Basics | Vilém | |
-| 3 | 3/3 | L | Numpy | Luboš | HW 1 |
-| 4 | 10/3 | L | Pandas I | Luboš | |
-| 4 | 11/3 | S | Seminar 2: Numpy & pandas | Luboš | HW 2 |
-| 5 | 17/3 | L | Pandas II + Matplotlib  | Luboš | |
-| 5 | 18/3 | S | Seminar 3: Data formats & APIs | Vilém | - |
-| 6 | 24/3 | L | Data formats, APIs | Luboš | HW 3 |
-| 7 | 31/3 | - | **MIDTERM** | Luboš & Vilém | |
+| 1 | 29/9 | S | Setup (Jupyter, VScode, Git, OS basics) | |
+| 1 | 30/9 | L | Python basics | |
+| 2 | 6/10 | L | Python basics II | |
+| 2 | 7/10 | S | Basics | |
+| 3 | 13/10 | L | Numpy | HW 1 |
+| 3 | 14/10 | S | Numpy | |
+| 4 | 20/10 | L | Pandas I | HW 2 |
+| 4 | 21/10 | S | Pandas | |
+| 5 | 27/10 | - | Dean's day - **no lecture** | |
+| 5 | 28/10 | - | Holiday - **no lecture** | |
+| 6 | 3/11 | L | Pandas II + Matplotlib | |
+| 7 | 10/11 | L | Data formats, APIs | HW 3 |
+| 7 | 11/11 | S | Data formats & APIs | |
 | 7 | 1/4 | S | Seminar 4: Midterm solution | Luboš | |
-| 8 | 7/4 | L | Algorithmic problem solving | Luboš | |
-| 9 | 14/4 | L | Data science | Luboš | |
-| 9 | 15/4 | S | Seminar 5: Data science case-study | Vilém | |
-| 10 | 21/4 | - | No lecture - The Easter Monday | | |
-| 11 | 28/4 | L | How to code (avoiding spaghetti code) | Luboš | |
-| 11 | 29/4 | - |  | Luboš & Vilém | Project proposal approval|
-| 12 | 5/5 | L | Mixed topics: pkg, tests, docs, sql | Luboš |  |
-| 13 | 12/5 | L | Guest Lecture: František Kaláb & Benedikt Kotmel from [Golemio](https://golemio.cz/english), Beer with the guest and class-members after the lecture at TBA, 8:15pm | Luboš & Vilém | |
+| 8 | 17/11 | - | Holiday - **no lecture** | |
+| 8 | 18/11 | - | **MIDTERM** | |
+| 9 | 24/11 | L | Algorithmic problem solving | |
+| 9 | 25/11 | S | Midterm solution | |
+| 10 | 1/12 | L | Data science | |
+| 10 | 2/12 | S | Data science case-study | |
+| 11 | 8/12 | L | How to code (avoiding spaghetti code) | Project proposal approval |
+| 12 | 15/12 | L | Mixed topics: pkg, tests, docs, sql |  |
+| 12 | 16/12 | L | Guest Lecture: TBA, Beer with the guest and class-members after the lecture at TBA, 8:15pm | |
+| 13 | 22/12 | - | Christmas holiday | |
+| 13 | 23/12 | - | Christmas holiday | |
 | 14 | 19/5 | - | | | |
-| 15 | 26/5-28/5 | - | **WiP:** Project consultations | Luboš & Vilém | |
-| 16 | 2/6-6/6 | - | **WiP:** Project consultations | Luboš & Vilém | |
-| 17 | 9/6 | - | | | |
-| 18 | 16/6 | - | **Deadline Final Project** - submit | Luboš & Vilém | |
+| 15 | 5/1 - 9/1 | - | **WiP:** Project consultations | |
+| 16 | 12/1 - 13/1 | - | **WiP:** Project consultations | |
+| 17 | 26/1 | - | **Deadline Final Project** - submit | Project submission |
 
-Topis of the last weeks of the semester might be changed.
+Topics of the last weeks of the semester might be changed.
 
 Let me know if you need any other adjustments! 😊
   
@@ -70,11 +73,10 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
 ### Final project (60%)
 
 * Students in teams by 2
-<!-- * Submit your proposal here [TBA] -->
-* [Submit you proposal here](https://forms.gle/Lo1c2YxTQkwewRuL7)
-* Deadline for topic submission (week to consult): 22nd of April 2025
-* Deadline to attend the WiP consultation: 6th of June 2025, [link to book meeting](https://docs.google.com/spreadsheets/d/16iAHASVecjxen7hiAfzkIUTuAKUd9ygXm7OsxmAb9KE/edit?usp=sharing)
-* Deadline for completed project: 16th of June 2025 (can be postponed upon request, also possibly in September - but not prefered)
+* Submit your proposal here [TBA]
+* Deadline for topic submission (week to consult): December 1 2025
+* Deadline to attend the WiP consultation: January 13 2025, [link here]
+* Deadline for completed project: January 26 2025 
 
 #### Projects' Evaluation criteria
 
@@ -90,6 +92,9 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
 * README, documentation - 5 pts
 * Analysis, visualization - 15 pts
   * highlight key points of your project, give it some narrative
+ * Creativity - 5 pts
+  * insightful application on a topic you are passionate about
+  * providing meaningful contribution
 * Difficulty choice - 5 pts
   * this criteria is subjective and is dependent entirely on your skill
   * the goal is to challenge yourselves and learn something new, regardless if you're a Python novice or you write python code every week
@@ -108,7 +113,7 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
 ## Homework Assignments (5%)
 
 * Create [leetcode.com](https://leetcode.com) account
-* You are expected to submit in a specified [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdYoxy7uZpZAoCRjT4FdWfCy3KWZUT36AviUB_ms-hbtrplRQ/viewform?usp=sharing) (please make sure to use your Charles University email address, xxxxxxxx@fsv.cuni.cz):
+* You are expected to submit in a specified [Google form - TBA](please make sure to use your Charles University email address, xxxxxxxx@fsv.cuni.cz):
   * Link to the problem
   * Print page showing your solution and submission statistics
     * Like this: [Path Sum III - Submission Detail - LeetCode.pdf](/99_files/PathSumIII-SubmissionDetail-LeetCode.pdf)
@@ -116,7 +121,7 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
   * Plain text of your script (in python 3!)
 
 * Rules:
-  * Do not just copy the public solutions or what ChatGPT tells you. We will make an effort to find out and you will be penalized as per academic integrity guidelines. Do not try to get easy points by cheating, it is not the purpose of the HW tasks.
+  * Do not use **AI tools**. The purpose of the homeworks is to get hands on experience with coding in Python, not to get cheap points by cheating. We will make an effort to find out, and you will be penalized as per academic integrity guidelines. 
     * Have fun and try to beat the world!
     * Your submission will ideally be accepted by leetcode, but send us your best attempt regardless, you can still get the points. If anything, try to optimize run time, do not worry about memory.
     * You will struggle, but if you solve many of those, your next stop is Google cafeteria as an employee!
