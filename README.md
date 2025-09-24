@@ -88,7 +88,7 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
   * by far the most important one! The project needs to run from scratch after installing versioned requirements.
 * Code structure - 15 pts
   * functions (classes), properly named variables
-* README, documentation - 5 pts
+  * README, documentation
 * Analysis, visualization - 15 pts
   * highlight key points of your project, give it some narrative
 * Creativity - 5 pts
