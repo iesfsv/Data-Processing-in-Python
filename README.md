@@ -42,7 +42,7 @@ Here's your schedule with the semester beginning on September 29:
 | 5 | 28/10 | - | Holiday - **no lecture** | |
 | 6 | 3/11 | L | Pandas II + Matplotlib | |
 | 7 | 10/11 | L | Data formats, APIs | HW 3 |
-| 7 | 11/11 | S | Data formats & APIs | |
+| 7 | 11/11 | S | Data formats, APIs | |
 | 8 | 17/11 | - | Holiday - **no lecture** | |
 | 8 | 18/11 | - | **MIDTERM** | |
 | 9 | 24/11 | L | Algorithmic problem solving | |
