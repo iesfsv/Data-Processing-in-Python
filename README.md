@@ -29,7 +29,7 @@ Final project **deadline**: January 2026 before midnight. Late submissions will 
 Here's your schedule with the semester beginning on September 29:  
 
 | WEEK | DATE | L/S | TOPIC | DEADLINE |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | 1 | 29/9 | S | Setup (Jupyter, VScode, Git, OS basics) | |
 | 1 | 30/9 | L | Python basics | |
 | 2 | 6/10 | L | Python basics II | |
@@ -43,7 +43,7 @@ Here's your schedule with the semester beginning on September 29:
 | 6 | 3/11 | L | Pandas II + Matplotlib | |
 | 7 | 10/11 | L | Data formats, APIs | HW 3 |
 | 7 | 11/11 | S | Data formats & APIs | |
-| 7 | 1/4 | S | Seminar 4: Midterm solution | Luboš | |
+| 7 | 1/4 | S | Seminar 4: Midterm solution | |
 | 8 | 17/11 | - | Holiday - **no lecture** | |
 | 8 | 18/11 | - | **MIDTERM** | |
 | 9 | 24/11 | L | Algorithmic problem solving | |
