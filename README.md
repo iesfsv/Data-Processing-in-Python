@@ -91,7 +91,7 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
 * README, documentation - 5 pts
 * Analysis, visualization - 15 pts
   * highlight key points of your project, give it some narrative
- * Creativity - 5 pts
+* Creativity - 5 pts
   * insightful application on a topic you are passionate about
   * providing meaningful contribution
 * Difficulty choice - 5 pts
