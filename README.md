@@ -12,7 +12,7 @@ The course is taught by [Josef Kurka](mailto:josef.kurka@fsv.cuni.cz).
 2) Work-in-progress consultations - 01/2026
 3) Project submissions - 26/1/2025
 
-Final project **deadline**: January 2026 before midnight. Late submissions will be awarded **0 points**.
+Final project **deadline**: January 26, 2026 before midnight. Late submissions will be awarded **0 points**.
 
 - **Send link to your project github repository** via e-mail.
 
@@ -22,7 +22,7 @@ Final project **deadline**: January 2026 before midnight. Late submissions will 
 
 * If you are on **waiting list** there is *nothing* we can do to enroll you. We managed to master somehow `python`, but SIS is something else. We follow the rules. Students usually drop from the course during the first week of the semester so **there is a good chance** you will be able to register.
 
-* The course is held in **hybrid** mode, the **no online** option applies only to the students with a granted request.
+* The course is held in **hybrid** mode, the **online** option applies only to the students with a granted request.
 
 ## Schedule (updated September 23)
 
