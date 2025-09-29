@@ -10,6 +10,16 @@ September 29, 2025
 3. Bash basics
 4. Git basics
 
+## Preliminary info
+
+- Course information and files to be found at [course Github](https://github.com/iesfsv/Data-Processing-in-Python/blob/main/README.md).
+  - You can clone the repository to your computers using 'git clone https://github.com/iesfsv/Data-Processing-in-Python.git'
+- Course requirements:
+  - Final project 60%
+  - Midterm exam 25%
+  - Project work-in-project consultation 10%
+  - Homeworks 5% [Leetcode](https://leetcode.com/problemset/)
+
 ## Installations
 
 Check you have installed **python** and **git + git bash** and **VScode**
@@ -20,7 +30,6 @@ Check you have installed **python** and **git + git bash** and **VScode**
 - [GitHub](https://github.com/)
   - register with your school e-mail, you should be eligible for [GitHub Student Developer Pack](https://education.github.com/pack)
 - [VScode](https://code.visualstudio.com/download)
-
 ------
 
 ### Let us repeat the installation instructions from the e-mail
@@ -68,6 +77,13 @@ https://www.geeksforgeeks.org/how-to-install-python-on-mac/
 ## Shell basics
 
 - shell is simply a programming environment (just like Python)
+
+- you need to be using a Unix shell like Bash or ZSH.
+
+  - if you are on Linux or macOS, you are set out-of-the-box
+  - if you are on Windows, don't run cmd.exe or PowerShell!
+    - use [Window Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/) or at least [git Bash](https://gitforwindows.org/) to emulate Unix shell
+
 - what happens when you run commands in your shell?
 
   - you are really writing a small bit of code that your shell interprets
@@ -78,12 +94,6 @@ https://www.geeksforgeeks.org/how-to-install-python-on-mac/
 
   - relative paths are relative to the current working directory
   - in a path, `.` refers to the current directory, and `..` to its parent directory
-
-- you need to be using a Unix shell like Bash or ZSH.
-
-  - if you are on Linux or macOS, you are set out-of-the-box
-  - if you are on Windows, don't run cmd.exe or PowerShell!
-    - use [Window Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/) or at least [git Bash](https://gitforwindows.org/) to emulate Unix shell
 
 - `echo` returns whatever you type at the shell prompt
 
@@ -106,13 +116,13 @@ https://www.geeksforgeeks.org/how-to-install-python-on-mac/
 - `touch` creates an empty file
 - `rm` delete a file
 
-  - `rm -r *` deletes a folder with all its contents
-
 - the redirection operator `>` will redirect the normal output initially intended to be on stdout and print it directly into the file.
 
   - `echo "Git is awesome." > file.txt`
 
 - `cat` reads a file and outputs its content
+
+  - `rm -r *` deletes a folder with all its contents
 
 ## Git and GitHub
 
