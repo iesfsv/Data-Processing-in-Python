@@ -34,10 +34,10 @@ Here's your schedule with the semester beginning on September 29:
 | 1 | 30/9 | L | Python basics | |
 | 2 | 6/10 | L | Python basics II | |
 | 2 | 7/10 | S | Basics | |
-| 3 | 13/10 | L | Numpy | HW 1 |
-| 3 | 14/10 | S | Numpy | |
-| 4 | 20/10 | L | Pandas I | HW 2 |
-| 4 | 21/10 | S | Pandas | |
+| 3 | 13/10 | L | Numpy | |
+| 3 | 14/10 | S | Numpy | HW 1 |
+| 4 | 20/10 | L | Pandas I | |
+| 4 | 21/10 | S | Pandas | HW 2 |
 | 5 | 27/10 | - | Dean's day - **no lecture** | |
 | 5 | 28/10 | - | Holiday - **no lecture** | |
 | 6 | 3/11 | L | Pandas II + Matplotlib | |
@@ -112,7 +112,7 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
 ## Homework Assignments (5%)
 
 * Create [leetcode.com](https://leetcode.com) account
-* You are expected to submit in a specified [Google form - TBA](please make sure to use your Charles University email address, xxxxxxxx@fsv.cuni.cz):
+* You are expected to submit in a specified [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe2k1chlBD3ptVidr61n_asc0KGk7bXv1EINDw88h9sAIAmlw/viewform?usp=dialog) (please make sure to use your Charles University email address, xxxxxxxx@fsv.cuni.cz):
   * Link to the problem
   * Print page showing your solution and submission statistics
     * Like this: [Path Sum III - Submission Detail - LeetCode.pdf](/99_files/PathSumIII-SubmissionDetail-LeetCode.pdf)
