@@ -72,7 +72,7 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
 ### Final project (60%)
 
 * Students in teams by 2
-* Submit your proposal here [TBA]
+* Submit your proposal [here](https://docs.google.com/forms/d/e/1FAIpQLSdFEIL29BWKp5uHtPSZNspX4U3VxLRiW-U57zWFZMkwj2e6MA/viewform?usp=header)
 * Deadline for topic submission (week to consult): December 1 2025
 * Deadline to attend the WiP consultation: January 13 2025, [link here]
 * Deadline for completed project: January 26 2025 
