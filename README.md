@@ -6,14 +6,16 @@ The course is taught by [Josef Kurka](mailto:josef.kurka@fsv.cuni.cz).
 
 ## Upcoming project work
 
-0) Matching document: [link](https://docs.google.com/spreadsheets/d/1i35pSZcNPoxzA7_RwpYkGdjvlNV8YXt2SdojpBzLV-w/edit?usp=sharing)
+Matching document: [link](https://docs.google.com/spreadsheets/d/1i35pSZcNPoxzA7_RwpYkGdjvlNV8YXt2SdojpBzLV-w/edit?usp=sharing)
 
-1) Submissions of project proposals - 8/12/2025
+1) Submissions of project proposals - 1/12/2025
+1) Approval of project proposals - 8/12/2025
 2) Work-in-progress consultations - 01/2026
 3) Project submissions - 26/1/2025
 
 Final project **deadline**: January 26, 2026 before midnight. Late submissions will be awarded **0 points**.
 
+- Matching document: [link](https://docs.google.com/spreadsheets/d/1i35pSZcNPoxzA7_RwpYkGdjvlNV8YXt2SdojpBzLV-w/edit?usp=sharing)
 - **Send link to your project github repository** via e-mail.
 
 ## Information for the winter semester of 2025/2026
