@@ -52,7 +52,7 @@ Here's your schedule with the semester beginning on September 29:
 | 10 | 1/12 | L | Data science | |
 | 10 | 2/12 | S | Data science case-study | |
 | 11 | 8/12 | L | How to code (avoiding spaghetti code) | Project proposal approval |
-| 12 | 15/12 | L |  Guest Lecture: F. Kaláb, M. Stejskalová, B. Kotmel, Beer with the guests after the lecture at TBA, 8:15pm |  |
+| 12 | 15/12 | L |  Guest Lecture: F. Kaláb, M. Stejskalová, B. Kotmel, Beer with the guests after the lecture at [Pivovarský dům Benedict](https://www.pivo-dum.cz/?gad_source=1&gad_campaignid=17940535324&gbraid=0AAAAABJoAjOITb7mu10vyBh7YD-VR0VqU&gclid=Cj0KCQiA9OnJBhD-ARIsAPV51xOFc9Y2nRrNZoiBFuyI8u1WNK79MGDOTUOxBfXvBq9ruUOr8DxCa3QaApmMEALw_wcB), 8:15pm |  |
 | 12 | 16/12 | L | Mixed topics: pkg, tests, docs, sql | |
 | 13 | 22/12 | - | Christmas holiday | |
 | 13 | 23/12 | - | Christmas holiday | |
