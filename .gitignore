@@ -7,7 +7,7 @@
 # Ignore VS Code Settings
 .vscode/
 
-.gitignore
+gitignore
 
 # --- Lubos ---
 __pycache__/
