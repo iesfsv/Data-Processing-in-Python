@@ -1,0 +1,58 @@
+# --- Basics ---
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Ignore VS Code Settings
+.vscode/
+
+# --- Lubos ---
+__pycache__/
+wspace/
+wspace25/
+xspace/
+
+requirements.txt
+*.sqlite
+.pytest_cache/
+
+previousyears/
+
+# --- macOS ---
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+
+# --- Windows ---
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+PathSumIII-SubmissionDetail-LeetCodeX
