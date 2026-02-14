@@ -1,63 +1,56 @@
 # Data Processing in Python (JEM207)
 
-The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The information below are related to the Winter Semester 2025/2026.
+The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207).
 
 The course is taught by [Josef Kurka](mailto:josef.kurka@fsv.cuni.cz). 
 
 ## Upcoming project work
 
 0) Matching document: [link](https://docs.google.com/spreadsheets/d/1i35pSZcNPoxzA7_RwpYkGdjvlNV8YXt2SdojpBzLV-w/edit?usp=sharing)
+1) Approval of project proposals - 27/4/2025
+2) Work-in-progress consultations - 05/2026
+3) Project submissions - 14/6/2026
 
-1) Submissions of project proposals - 8/12/2025
-2) Work-in-progress consultations - 01/2026
-3) Project submissions - 26/1/2025
+Final project **deadline**: June 14, 2026 before midnight. Late submissions will be awarded **0 points**.
 
-Final project **deadline**: January 26, 2026 before midnight. Late submissions will be awarded **0 points**.
+- **Submit link to your project github repository** via Google forms [link TBD]
 
-- **Send link to your project github repository** via e-mail.
-
-## Information for the winter semester of 2025/2026
+## Information for the summer semester of 2025/2026
 
 ## FAQ - pre semester
 
 * If you are on **waiting list** there is *nothing* we can do to enroll you. We managed to master somehow `python`, but SIS is something else. We follow the rules. Students usually drop from the course during the first week of the semester so **there is a good chance** you will be able to register.
 
-* The course is held in **hybrid** mode, the **online** option applies only to the students with a granted request.
+## Schedule (updated February 14)
 
-## Schedule (updated September 23)
-
-Here's your schedule with the semester beginning on September 29:  
+Here's your schedule with the semester beginning on February 16:  
 
 | WEEK | DATE | L/S | TOPIC | DEADLINE |
 | --- | --- | --- | --- | --- |
-| 1 | 29/9 | S | Setup (Jupyter, VScode, Git, OS basics) | |
-| 1 | 30/9 | L | Python basics | |
-| 2 | 6/10 | L | Python basics II | |
-| 2 | 7/10 | S | Basics | |
-| 3 | 13/10 | L | Numpy | |
-| 3 | 14/10 | S | Numpy | HW 1 |
-| 4 | 20/10 | L | Pandas I | |
-| 4 | 21/10 | S | Pandas | HW 2 |
-| 5 | 27/10 | - | Dean's day - **no lecture** | |
-| 5 | 28/10 | - | Holiday - **no lecture** | |
-| 6 | 3/11 | L | Pandas II + Matplotlib | |
-| 7 | 10/11 | L | Data formats, APIs | HW 3 |
-| 7 | 11/11 | S | Data formats, APIs | |
-| 8 | 17/11 | - | Holiday - **no lecture** | |
-| 8 | 18/11 | - | **MIDTERM** | |
-| 9 | 24/11 | L | Algorithmic problem solving | |
-| 9 | 25/11 | S | Midterm solution | |
-| 10 | 1/12 | L | Data science | |
-| 10 | 2/12 | S | Data science case-study | |
-| 11 | 8/12 | L | How to code (avoiding spaghetti code) | Project proposal approval |
-| 12 | 15/12 | L | Mixed topics: pkg, tests, docs, sql |  |
-| 12 | 16/12 | L | Guest Lecture: TBA, Beer with the guest and class-members after the lecture at TBA, 8:15pm | |
-| 13 | 22/12 | - | Christmas holiday | |
-| 13 | 23/12 | - | Christmas holiday | |
-| 14 | 19/5 | - | | | |
-| 15 | 5/1 - 9/1 | - | **WiP:** Project consultations | |
-| 16 | 12/1 - 13/1 | - | **WiP:** Project consultations | |
-| 17 | 26/1 | - | **Deadline Final Project** - submit | Project submission |
+| 1 | 16/2 | S | Setup (Jupyter, VScode, Git, OS basics) | |
+| 1 | 18/2 | L | Python basics | |
+| 2 | 23/2 | L | Python basics II | |
+| 2 | 25/2 | S | Basics | |
+| 3 | 2/3 | L | Numpy | HW 1 |
+| 3 | 4/3 | S | Numpy | |
+| 4 | 9/3 | L | Pandas I | |
+| 5 | 16/3 | L | Pandas II + Matplotlib | HW 2 |
+| 6 | 23/3 | S | Pandas | |
+| 7 | 30/3 | L | Data formats, APIs |  |
+| 7 | 1/4 | S | Data formats, APIs |  |
+| 8 | 6/4 | - | Easter - **no lecture** | |
+| 8 | 8/4 | L | Algorithmic problem solving | HW 3 |
+| 9 | 13/4 | - | **MIDTERM** | |
+| 9 | 15/4 | S | Midterm solution | |
+| 10 | 20/4 | L | Data science | |
+| 10 | 22/4 | S | Data science case-study | |
+| 11 | 27/4 | L | How to code (avoiding spaghetti code) | Project proposal approval |
+| 12 | 29/4 | L | Mixed topics: pkg, tests, docs, sql |  |
+| 12 | 4/5 | L | Guest Lecture: TBA, Beer with the guest and class-members after the lecture at TBA, 8:15pm | |
+| 13 | 11/5 | - | Project work | |
+| 15 | 18/5 - 22/5 | - | **WiP:** Project consultations | |
+| 16 | 25/5 - 29/5 | - | **WiP:** Project consultations | |
+| 17 | 14/6 | - | **Deadline Final Project** - submit | Project submission |
 
 Topics of the last weeks of the semester might be changed.
 
@@ -65,42 +58,53 @@ Let me know if you need any other adjustments! 😊
   
 ## Course requirements
 
-The requirements for passing the course are homeworks (**5pts**), the midterm (**25pts**), work in-progress-presentation (**10pts**), and the final project - including the final delivery presentation (**60pts**).
+The requirements for passing the course are homeworks (**5pts**), the midterm (**25pts**), work in-progress presentation (**10pts**), and the final project (**60pts**).
 
-At least 50% from the **homeworks assignments** and **work-in-progress** presentation is required for passing the course.
+At least 50% from the **work-in-progress** presentation  and **final project** is required for passing the course.
+
+Credit load 5 ECTS equivalent to 125+ hours of student work:
+
+* participation lecture time - 16 hours
+* participation seminar time - 9 hours
+* homework assignments - 5 hours
+* midterm preparation - 20 hours
+* project work - 50 hours
+* additional home study - 25 hours
 
 ### Final project (60%)
 
 * Students in teams by 2
-* Submit your proposal [here](https://docs.google.com/forms/d/e/1FAIpQLSdFEIL29BWKp5uHtPSZNspX4U3VxLRiW-U57zWFZMkwj2e6MA/viewform?usp=header)
-* Deadline for topic submission (week to consult): December 1 2025
-* Deadline to attend the WiP consultation: January 13 2025, [link here]
-* Deadline for completed project: January 26 2025 
+* Submit your proposal [TBD]()
+* Deadline for topic submission (week to consult): April 20, 2026
+* Deadline to attend the WiP consultation: May 29, 2026, [link here]
+* Deadline for completed project: June 14, 2026 
 
 #### Projects' Evaluation criteria
 
-* Use of git by both students - 5pts
+* Use of git by both students - 5 pts
   * meaningful commit messages
-* Pythonic code principles - 5 pts
-  * Provide requirements.txt file of the dependencies with versions (can use pip freeze) so that we can install with `pip install -r requirements.txt`
-  * code is more often read than written, EAFP (Easier to Ask for Forgiveness than Permission)
 * Runnable code - 10 pts
   * by far the most important one! The project needs to run from scratch after installing versioned requirements.
-* Code structure - 15 pts
+* Pythonic code principles and structure - 20 pts
+  * Provide requirements.txt file of the dependencies with versions (can use pip freeze) so that we can install with `pip install -r requirements.txt`
+  * code is more often read than written, EAFP (Easier to Ask for Forgiveness than Permission)
   * functions (classes), properly named variables
-  * README, documentation
-* Analysis, visualization - 15 pts
+  * following Python style guidelines
+  * README
+  * documentation
+  * proper repository structure
+* Analysis, visualization - 10 pts
   * highlight key points of your project, give it some narrative
-* Creativity - 5 pts
+* Originality, difficulty - 10 pts
   * insightful application on a topic you are passionate about
-  * providing meaningful contribution
-* Difficulty choice - 5 pts
-  * this criteria is subjective and is dependent entirely on your skill
+  * project is sufficiently elaborate
+  * difficulty to download the data and the scope of the dataset
   * the goal is to challenge yourselves and learn something new, regardless if you're a Python novice or you write python code every week
 
 ## Project work - presentation (10%)
 
-* Presentation of work-in-progress related to the final project.
+* Brief presentation of work-in-progress related to the final project.
+* You should have 50% of your project completed at this stage.
 * Prepare questions, understand the goals of your project
 
 ## Midterm exam (25%)
@@ -112,7 +116,7 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
 ## Homework Assignments (5%)
 
 * Create [leetcode.com](https://leetcode.com) account
-* You are expected to submit in a specified [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe2k1chlBD3ptVidr61n_asc0KGk7bXv1EINDw88h9sAIAmlw/viewform?usp=dialog) (please make sure to use your Charles University email address, xxxxxxxx@fsv.cuni.cz):
+* You are expected to submit in a specified [Google Form] (please make sure to use your Charles University email address, xxxxxxxx@fsv.cuni.cz):
   * Link to the problem
   * Print page showing your solution and submission statistics
     * Like this: [Path Sum III - Submission Detail - LeetCode.pdf](/PathSumIII-SubmissionDetail-LeetCode.pdf)
@@ -130,8 +134,7 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
   * Choose one of the easy problems. Have fun and send us how far you have got!
     * Example: [Two Sum](https://leetcode.com/problems/two-sum/)
 * HW 2 (2 pts):
-  * One easy or one Medium problem
-    * Example: Medium: [Parentheses](https://leetcode.com/problems/generate-parentheses/)
+  * One Medium problem
+    * Must be from [Pandas set of problems](https://leetcode.com/problemset/pandas/)
 * HW 3 (2 pts):
-  * One easy or one Medium problem
-  * Must be from [Pandas set of problems](https://leetcode.com/problemset/pandas/)
+  * TBD
