@@ -46,7 +46,7 @@ Here's your schedule with the semester beginning on February 16:
 | 10 | 22/4 | S | Data science case-study | |
 | 11 | 27/4 | L | How to code (avoiding spaghetti code) | Project proposal approval |
 | 12 | 29/4 | L | Mixed topics: pkg, tests, docs, sql |  |
-| 12 | 4/5 | L | Guest Lecture: TBA, Beer with the guest and class-members after the lecture at TBA, 8:15pm | |
+| 12 | 4/5 | L | Guest Lecture: TBA | |
 | 13 | 11/5 | - | Project work | |
 | 15 | 18/5 - 22/5 | - | **WiP:** Project consultations | |
 | 16 | 25/5 - 29/5 | - | **WiP:** Project consultations | |
@@ -95,9 +95,10 @@ Credit load 5 ECTS equivalent to 125+ hours of student work:
   * proper repository structure
 * Analysis, visualization - 10 pts
   * highlight key points of your project, give it some narrative
-* Originality, difficulty - 10 pts
+* Originality, difficulty - 15 pts
   * insightful application on a topic you are passionate about
   * project is sufficiently elaborate
+  * analysis is interactive
   * difficulty to download the data and the scope of the dataset
   * the goal is to challenge yourselves and learn something new, regardless if you're a Python novice or you write python code every week
 
