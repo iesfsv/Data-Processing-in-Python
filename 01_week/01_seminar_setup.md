@@ -1,6 +1,6 @@
 # Seminar 0
 
-September 29, 2025
+February 14, 2026
 
 **Contents**:
 
