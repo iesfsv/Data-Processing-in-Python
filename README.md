@@ -34,9 +34,9 @@ Here's your schedule with the semester beginning on February 16:
 | 3 | 2/3 | L | Numpy | HW 1 |
 | 3 | 4/3 | S | Numpy | |
 | 4 | 9/3 | L | Pandas I | |
-| 5 | 16/3 | L | Pandas II + Matplotlib | HW 2 |
+| 5 | 16/3 | L | Pandas II + Matplotlib | |
 | 6 | 23/3 | S | Pandas | |
-| 7 | 30/3 | L | Data formats, APIs |  |
+| 7 | 30/3 | L | Data formats, APIs | HW 2  |
 | 7 | 1/4 | S | Data formats, APIs |  |
 | 8 | 6/4 | - | Easter - **no lecture** | |
 | 8 | 8/4 | L | Algorithmic problem solving | HW 3 |
@@ -117,7 +117,7 @@ Credit load 5 ECTS equivalent to 125+ hours of student work:
 ## Homework Assignments (5%)
 
 * Create [leetcode.com](https://leetcode.com) account
-* You are expected to submit in a specified [Google Form](https://forms.gle/ic5Hd19mFpsSr9nV6) (please make sure to use your Charles University email address, xxxxxxxx@fsv.cuni.cz):
+* You are expected to submit in the following [Google Form](https://forms.gle/ic5Hd19mFpsSr9nV6) (please make sure to use your Charles University email address, xxxxxxxx@fsv.cuni.cz):
   * Link to the problem
   * Print page showing your solution and submission statistics
     * Like this: [Path Sum III - Submission Detail - LeetCode.pdf](/PathSumIII-SubmissionDetail-LeetCode.pdf)
