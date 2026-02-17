@@ -117,7 +117,7 @@ Credit load 5 ECTS equivalent to 125+ hours of student work:
 ## Homework Assignments (5%)
 
 * Create [leetcode.com](https://leetcode.com) account
-* You are expected to submit in a specified [Google Form] (please make sure to use your Charles University email address, xxxxxxxx@fsv.cuni.cz):
+* You are expected to submit in a specified [Google Form](https://forms.gle/ic5Hd19mFpsSr9nV6) (please make sure to use your Charles University email address, xxxxxxxx@fsv.cuni.cz):
   * Link to the problem
   * Print page showing your solution and submission statistics
     * Like this: [Path Sum III - Submission Detail - LeetCode.pdf](/PathSumIII-SubmissionDetail-LeetCode.pdf)
