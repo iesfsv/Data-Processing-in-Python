@@ -120,7 +120,7 @@ Credit load 5 ECTS equivalent to 125+ hours of student work:
 * You are expected to submit in the following [Google Form](https://forms.gle/ic5Hd19mFpsSr9nV6) (please make sure to use your Charles University email address, xxxxxxxx@fsv.cuni.cz):
   * Link to the problem
   * Print page showing your solution and submission statistics
-    * Like this: [Path Sum III - Submission Detail - LeetCode.pdf](/PathSumIII-SubmissionDetail-LeetCode.pdf)
+    * Like this: [Path Sum III - Submission Detail - LeetCode.pdf](/files/PathSumIII-SubmissionDetail-LeetCode.pdf)
     * **EDIT:** You can access the **statistics** of your **solution** (even it is not accepted by *leetcode*) via the top right button to your `profile`. You go to your `submissions`, then column `status` and you obtain the `solution details`. These details you save/print to `.PDF` and upload. **Your `name` or `e-mail` must be legible in the PDF of your submission**
   * Plain text of your script (in python 3!)
 
