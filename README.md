@@ -7,8 +7,7 @@ The course is taught by [Josef Kurka](mailto:josef.kurka@fsv.cuni.cz).
 ## Upcoming project work
 
 0) Matching document: [link](https://docs.google.com/spreadsheets/d/1i35pSZcNPoxzA7_RwpYkGdjvlNV8YXt2SdojpBzLV-w/edit?usp=sharing)
-1) Approval of project proposals [(submit here)](https://forms.gle/93hci81DYnZN9KW16)
-- 27/4/2025
+1) Approval of project proposals [(submit here)](https://forms.gle/93hci81DYnZN9KW16) - 27/4/2025
 2) Work-in-progress consultations - 05/2026
 3) Project submissions - 14/6/2026
 
