@@ -7,7 +7,8 @@ The course is taught by [Josef Kurka](mailto:josef.kurka@fsv.cuni.cz).
 ## Upcoming project work
 
 0) Matching document: [link](https://docs.google.com/spreadsheets/d/1i35pSZcNPoxzA7_RwpYkGdjvlNV8YXt2SdojpBzLV-w/edit?usp=sharing)
-1) Approval of project proposals - 27/4/2025
+1) Approval of project proposals [(submit here)](https://forms.gle/93hci81DYnZN9KW16)
+- 27/4/2025
 2) Work-in-progress consultations - 05/2026
 3) Project submissions - 14/6/2026
 
@@ -74,7 +75,7 @@ Credit load 5 ECTS equivalent to 125+ hours of student work:
 ### Final project (60%)
 
 * Students in teams by 2
-* Submit your proposal [TBD]()
+* Submit your proposal [here](https://forms.gle/93hci81DYnZN9KW16)
 * Deadline for topic submission (week to consult): April 20, 2026
 * Deadline to attend the WiP consultation: May 29, 2026, [link here]
 * Deadline for completed project: June 14, 2026 
