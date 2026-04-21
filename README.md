@@ -46,7 +46,7 @@ Here's your schedule with the semester beginning on February 16:
 | 10 | 22/4 | S | Data science case-study | |
 | 11 | 27/4 | L | How to code (avoiding spaghetti code) | Project proposal approval |
 | 12 | 29/4 | L | Mixed topics: pkg, tests, docs, sql |  |
-| 12 | 4/5 | L | Guest Lecture: TBA | |
+| 12 | 4/5 | L | Guest Lecture: Martin Cerny & Barbora Jakubova; IQVIA | |
 | 13 | 11/5 | - | Project work | |
 | 15 | 18/5 - 22/5 | - | **WiP:** Project consultations | |
 | 16 | 25/5 - 29/5 | - | **WiP:** Project consultations | |
