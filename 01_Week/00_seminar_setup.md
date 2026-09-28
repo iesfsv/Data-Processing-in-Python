@@ -128,7 +128,7 @@ Warning: The sooner you start writing, the better!!
 * Students in teams by 2
 * Business oriented. The application is everything
     - You need to plan - what is a goal of the app?
-    - How would users use the data that you offer? 
+    - What interesting context does it bring? 
 * The task is to 
     1. Download some data - from API etc, web-scraping etc.
     2. Process data - clean, transform, aggregate etc.
@@ -145,7 +145,8 @@ Warning: The sooner you start writing, the better!!
 
 **Consultations:** 
 
-* Of course, you may contact me any time. I will do my best, to help you.
+* Of course, you may contact us any time. We will do my best, to help you.
+* One work-in-progress consultation (during January) is a **MANDATORY** requirement for passing the course.
 
 ## Installations
 
@@ -175,8 +176,6 @@ On *macOS* you can use brew installer or anaconda as well.
 
 **VScode**
 Finally, also install Visual Studio Code (VScode): https://code.visualstudio.com/
-
-*Thank you!*
 
 #### Additionally, you could consult these resources:
 
