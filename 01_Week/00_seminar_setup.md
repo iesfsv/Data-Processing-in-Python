@@ -17,8 +17,8 @@ September 29, 2026
 - Course requirements:
   - Final project 60%
   - Midterm exam 25%
-  - Project work-in-project consultation 10%
-  - Homeworks 5% [Leetcode](https://leetcode.com/problemset/)
+  - Project work-in-progress consultation 10%
+  - Homework 5% [Leetcode](https://leetcode.com/problemset/)
 
 ### Why learn programming
 
