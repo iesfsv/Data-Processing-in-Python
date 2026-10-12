@@ -47,9 +47,9 @@ Here's your schedule with the semester beginning on September 29:
 | 9 | 23/11 | - | **MIDTERM** | Josef + Boris | |
 | 9 | 24/11 | S | Midterm solution | Boris | |
 | 10 | 30/11 | L | Algorithmic problem solving | Josef | |
-| 10 | 1/12 | L | Guest Lecture: Martin Cerny & Barbora Jakubova; IQVIA | Josef | |
-| 11 | 7/12 | L | Data science | Josef | Project proposal submission|
-| 11 | 8/12 | S | Data science case-study | Boris | |
+| 10 | 1/12 | L | Data science | Josef | |
+| 11 | 7/12 | S | Data science case-study | Boris | Project proposal submission|
+| 11 | 8/12 | L | Guest Lecture: Martin Cerny & Barbora Jakubova; IQVIA | Josef | |
 | 12 | 14/12 | L | How to code (avoiding spaghetti code) | Josef | Project proposal approval |
 | 12 | 15/12| L | Mixed topics: pkg, tests, docs, sql | Josef | HW3 |
 | 14 | 4/1 - 8/1 | - | **WiP:** Project consultations | Josef + Boris| |
