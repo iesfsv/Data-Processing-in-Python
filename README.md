@@ -147,3 +147,9 @@ Credit load 5 ECTS equivalent to 125+ hours of student work:
   * TBD
 
 
+
+
+# Link for the seminar session 13.10 
+https://teams.microsoft.com/l/team/19%3AUgT7Yef8TeoLj3POgaEfPDYf8C5N2b32WscfOrgL_AU1%40thread.tacv2/conversations?groupId=184eff84-c570-41de-b5ca-d2e551aa538c&tenantId=e09276da-f934-4086-bf08-8816a20414a2
+
+
