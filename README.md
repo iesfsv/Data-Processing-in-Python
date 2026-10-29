@@ -38,9 +38,9 @@ Here's your schedule with the semester beginning on September 29:
 | 4 | 20/10 | S | Numpy | Boris | |
 | 5 | 26/10 | L | Pandas I | Josef | |
 | 5 | 27/10 | S | Visualisation | Boris | |
-| 6 | 2/11 | L | Pandas II + Matplotlib | Josef | HW 2 |
+| 6 | 2/11 | L | Pandas II + Matplotlib | Josef | |
 | 6 | 3/11 | S | Pandas | Boris | |
-| 7 | 9/11 | L | Data formats, APIs | Josef | |
+| 7 | 9/11 | L | Data formats, APIs | Josef | HW 2 |
 | 7 | 10/11 | S | Data formats, APIs | Boris | |
 | 8 | 16/11 | - | Dean's day - **no lecture** | | |
 | 8 | 17/11 | - | Holiday - **no lecture** | | |
