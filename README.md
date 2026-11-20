@@ -107,7 +107,7 @@ Credit load 5 ECTS equivalent to 125+ hours of student work:
   * difficulty to download the data and the scope of the dataset
   * the goal is to challenge yourselves and learn something new, regardless if you're a Python novice or you write python code every week
 
-## Project work - presentation (10%)
+## Project work - consultation (10%)
 
 * Brief presentation of work-in-progress related to the final project.
 * You should have 50% of your project completed at this stage.
